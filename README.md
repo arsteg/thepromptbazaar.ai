@@ -1,0 +1,2 @@
+# thepromptbazaar.ai
+AI
